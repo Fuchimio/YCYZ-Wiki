@@ -9,17 +9,9 @@ hero:
   actions:
     - theme: brand
       text: 探索一中
-      link: /markdown-examples
+      link: /introduction
     - theme: alt
       text: 参与编写
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      link: /Contribution/index
 ---
 
