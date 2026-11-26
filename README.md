@@ -85,18 +85,7 @@ pnpm run docs:preview
 
 ## 项目结构
 
-```text
-YCYZ-Wiki/
-├── .vitepress/             # VitePress 配置与主题
-│   ├── config.mts          # 站点配置文件
-│   └── theme/              # 自定义主题
-├── docs/                   # Markdown 内容目录
-│   ├── public/             # 静态资源
-│   └── index.md            # Wiki 首页
-├── package.json
-├── pnpm-lock.yaml
-└── README.md
-```
+[PROJECT-STRUCTURE.md](PROJECT-STRUCTURE.md)
 
 随着项目发展，目录结构可能会进一步调整。
 

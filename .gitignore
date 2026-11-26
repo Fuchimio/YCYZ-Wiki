@@ -3,3 +3,5 @@ cache
 dist
 
 .obsidian
+.backup
+generate-structure.mjs
