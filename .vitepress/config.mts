@@ -18,7 +18,7 @@ export default defineConfig({
       message: 'Released under the MIT License.',
       copyright: `Copyright © 2026-${new Date().getFullYear()} 银川一中校园指南`,
     },
-    logo: '/logo.jpg',
+    logo: '/svg/ycyz.svg',
     sidebarMenuLabel:'本章目录',
     returnToTopLabel:'返回顶部',
     outline: {
