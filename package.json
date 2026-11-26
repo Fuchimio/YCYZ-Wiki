@@ -14,7 +14,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "nprogress-v2": "^1.1.10",
     "vitepress": "2.0.0-alpha.21",
+    "vitepress-plugin-comment-with-giscus": "^1.1.15",
     "vue": "^3.5.46"
   }
 }

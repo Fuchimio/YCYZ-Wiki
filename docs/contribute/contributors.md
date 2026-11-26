@@ -1,11 +1,12 @@
 # 鸣谢
+<ArticleMetadata />
 
 ## ❤️ Github Repo 贡献者
 
 > [!TIP]
 > 注：合并PR后，您的Github头像会自动出现在此处
 
-![](https://contrib.rocks/image?repo=Fuchimio/YCYZ-Wiki)](https://github.com/Fuchimio/YCYZ-Wiki/graphs/contributors)
+[![](https://contrib.rocks/image?repo=Fuchimio/YCYZ-Wiki)](https://github.com/Fuchimio/YCYZ-Wiki/graphs/contributors)
 
 ## ❤️ 未记入 GHContributor 的贡献者
 

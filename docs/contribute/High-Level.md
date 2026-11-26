@@ -1,4 +1,5 @@
 # 高阶秘法？
+<ArticleMetadata />
 
 ::: warning 警告
 本节内容并不适合小白阅读

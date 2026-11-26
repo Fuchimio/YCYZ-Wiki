@@ -1,7 +1,6 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-
 hero:
   name: "银川一中"
   text: "校园指南 Wiki"
@@ -15,3 +14,4 @@ hero:
       link: /Contribution/index
 ---
 
+<HomeUnderline />

@@ -1,4 +1,5 @@
 # 写作规范：Markdown、文章结构、图片规范
+<ArticleMetadata />
 
 ---
 
