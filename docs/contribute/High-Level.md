@@ -299,7 +299,7 @@ Markdown 内容和 Vue 主题相互配合：
 
 示例：
 
-```
+```typescript
 interface CardProps {
   title: string
   description: string
@@ -332,7 +332,7 @@ function getCardTitle(card: CardProps): string {
 
 示例：
 
-```
+```vue
 <script setup lang="ts">
 defineProps<{
   title: string
@@ -371,7 +371,7 @@ defineProps<{
 
 推荐命名：
 
-```
+```css
 .info-card {}
 .info-card__title {}
 .info-card__description {}

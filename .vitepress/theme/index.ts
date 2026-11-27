@@ -33,6 +33,7 @@ export default {
         categoryId: 'DIC_kwDOV5eAbc4DMAzH',
         mapping: 'pathname',
         inputPosition: 'bottom',
+        transparent_background: true,
         lang: 'zh-CN',
       },
       { frontmatter, route },
