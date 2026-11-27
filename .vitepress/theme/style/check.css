@@ -1,0 +1,38 @@
+/* 针对 Markdown 中的任务列表复选框 */
+.vp-doc .task-list-item-checkbox {
+  /* 移除浏览器默认的复选框样式 */
+  appearance: none;
+  -webkit-appearance: none;
+
+  /* 定义基础尺寸和边框 */
+  width: 18px;
+  height: 18px;
+  border: 2px solid var(--vp-c-brand-1); /* 使用主题色作为边框，更醒目 */
+  border-radius: 4px;
+  background-color: transparent;
+
+  /* 对齐方式微调 */
+  margin-right: 8px;
+  vertical-align: middle;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+/* 选中（已完成）状态 */
+.vp-doc .task-list-item-checkbox:checked {
+  background-color: var(--vp-c-brand-1); /* 填充主题色 */
+  border-color: var(--vp-c-brand-1);
+}
+
+/* 在选中的复选框内添加对勾标记 */
+.vp-doc .task-list-item-checkbox:checked::after {
+  content: "✓";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white; /* 对勾颜色 */
+  font-size: 14px;
+  font-weight: bold;
+}
